@@ -1,1 +1,69 @@
+Step-by-Step Instructions for Setting Up a Mini Doge Miner
+
+1. Unbox & Inspect Your Miner
+
+Carefully remove the Mini Doge miner, its power supply unit (PSU), Ethernet cable, and user manual.
+
+Check all components for visible damage.
+
+
+2. Connect the Hardware
+
+Plug the PSU securely into the miner.
+
+Attach one end of the Ethernet cable to the miner and the other to your router or switch.
+
+
+3. Power On
+
+Plug the PSU into a wall outlet.
+
+Allow a few minutes for the miner to boot and initialize.
+
+
+4. Access the Miner’s Interface
+
+Use your router’s interface to locate the miner’s assigned IP address (listed under connected devices).
+
+Enter that IP in your web browser to open the miner's configuration panel.
+
+
+5. Configure Your Mining Pool
+
+Login using the default credentials provided in your user manual.
+
+Go to the Miner Configuration section and input:
+
+Your preferred stratum pool URL.Your worker name
+
+(Optional) A password if required
+
+Save the changes.
+
+
+6. Monitor Miner Performance
+
+Navigate to the Miner Status or similar tab to view real-time stats like hash rates and device health.
+
+You can also monitor from the pool dashboard if supported.
+
+Look for stable operation and correct hashing rates.
+
+
+7. Use a Dogecoin Wallet & Join a Pool
+
+Create a Dogecoin wallet via official Dogecoin Core, Exodus, or a hardware wallet like Ledger.
+
+Choose a reliable mining pool (e.g., F2Pool, ViaBTC, LitecoinPool) that supports merged mining (LTC + DOGE).
+
+Input your wallet address in the pool’s payout settings.
+
+
+8. Environmental Tips & Profitability
+
+Electricity: ASIC miners use significant power—Goldshell Mini-Doge PRO draws around 220 W 
+
+Cooling: Maintain good ventilation or ambient cooling; ASICs generate considerable heat 
+
+Profit Considerations: Profitability depends heavily on your electricity cost (ideally under ~$0.08 USD/kWh) and miner efficiency 
 
